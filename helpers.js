@@ -63,7 +63,7 @@ function findMode(nums) {
             highestValueKey = key
       }
    }
-   return highestValueKey
+   return +highestValueKey
 }
 
 
